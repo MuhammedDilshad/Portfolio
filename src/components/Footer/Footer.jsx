@@ -17,7 +17,7 @@ function Footer() {
             <p className="text-gray-100 pb-3">Designed and Developed By</p>
             <div className="h-1 border-2 BtColor border-dotted"></div>
             <div className=" flex text-gray-50 justify-evenly py-3 ">
-              <a href="https://jaseem.vercel.app/resume">
+              <a href="https://portfolio-six-sage-25.vercel.app/">
                 <FaChrome className="cursor-pointer footerLogo" />
               </a>
               <a href="https://www.facebook.com/muhammed.dilshad.9659/">
