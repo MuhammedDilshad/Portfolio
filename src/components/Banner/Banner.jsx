@@ -31,7 +31,7 @@ function Banner() {
         </p>
         <div className="flex text-black justify-evenly pt-5">
           <a
-            href="./images/2MhdDilshad.pdf"
+            href="./images/MuhammedDilshad-1.pdf"
             download
             className="grid mt-4 md:m-3 place-items-center"
           >
@@ -48,38 +48,14 @@ function Banner() {
         </div>
         <div className="flex justify-center gap-10 pt-5">
           <a href="https://www.linkedin.com/in/muhammed-dilshad-991599230/">
-            <FaLinkedin className="cursor-pointer text-black  " />
+            <FaLinkedin className="cursor-pointer text-black" size={30} />
           </a>
           <a href="https://github.com/MuhammedDilshad">
-            <FaGithub className="cursor-pointer text-black  " />
+            <FaGithub className="cursor-pointer text-black " size={30} />
           </a>
         </div>
       </div>
     </div>
-
-    // <div className="relative text-left">
-    //   <img className="w-full" src={abcd} alt="" />
-    //   <div className="absolute top-1/4 max-lg:left-0 max-sm:top-0 left-1/4 transform text-black">
-    //     <div className="text-3xl max-sm:text-sm font-bold text-left">
-    //       <div>
-    //         Hai, Hello....
-    //         <hr />
-    //         <pre className="text-xl max-sm:text-sm my-5 font-mont">
-    //           {JSON.stringify(
-    //             {
-    //               name: "Muhammed Dilshad",
-    //               place: "Calicut",
-    //               country: "India",
-    //               phone: "7907865356",
-    //             },
-    //             null,
-    //             2
-    //           )}
-    //         </pre>
-    //       </div>
-    //     </div>
-    //   </div>
-    // </div>
   );
 }
 
