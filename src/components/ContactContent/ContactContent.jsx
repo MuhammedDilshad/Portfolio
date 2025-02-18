@@ -44,11 +44,11 @@ function ContactContent() {
         </div>
         <div className="flex items-center">
           <IoCallOutline className="pr-2 IconStyle" />
-          <strong>+91 7907865356</strong>
+          <strong>+971 547288743</strong>
         </div>
         <div className="flex items-center">
           <IoLocationOutline className="pr-2 IconStyle" />
-          <strong>India, Kerala</strong>
+          <strong>United Arab Emirates</strong>
         </div>
         <div className="flex items-center">
           <BsPersonWorkspace className="pr-2 IconStyle" />
